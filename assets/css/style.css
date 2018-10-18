@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://vignette.wikia.nocookie.net/battlefield/images/0/0e/BFBC2V_Clean_Background_1080P.png/revision/latest?cb=20130118145140");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#clockbox {
+    text-align: center;
+    font-size: 19px;
+}
+th , td {
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, .4);
+    color: white; 
+}
+
+
+.form-group, .form-control {
+    font-size: 10px;
+}
+
+h1  {
+    font-size: 33px;
+}
+
+h3  {
+    font-size: 15px;
+}
+
+#savd {
+    font-size: 11px;
+}
